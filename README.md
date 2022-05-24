@@ -16,17 +16,12 @@ The aim of game is to collect all keys, open the gates and escape from the templ
 
 ### Legend
 
-![green](https://user-images.githubusercontent.com/72464031/170149408-0ce0d837-78ed-4601-ac5f-4a6551c07a07.png) Hero
-
-![blue](https://user-images.githubusercontent.com/72464031/170149578-e0d5db11-0c0c-40f2-8de6-50eea741a270.png) Wall
-
-![yellow](https://user-images.githubusercontent.com/72464031/170149600-b3a8f49f-62ae-42f0-bee7-87f20a1d4bf7.png) Key
-
-![cyan](https://user-images.githubusercontent.com/72464031/170149584-ba66b0b2-757a-4c56-a463-a1287d9357f7.png) Door
-
-![magenta](https://user-images.githubusercontent.com/72464031/170149592-cabc813e-456c-44ab-b8c2-fb46f881001e.png) Monster
-
-![red](https://user-images.githubusercontent.com/72464031/170149597-39678409-cc04-4839-80dc-7574748d49f3.png) Advanced Monster
+* ![green](https://user-images.githubusercontent.com/72464031/170149408-0ce0d837-78ed-4601-ac5f-4a6551c07a07.png) Hero
+* ![blue](https://user-images.githubusercontent.com/72464031/170149578-e0d5db11-0c0c-40f2-8de6-50eea741a270.png) Wall
+* ![yellow](https://user-images.githubusercontent.com/72464031/170149600-b3a8f49f-62ae-42f0-bee7-87f20a1d4bf7.png) Key
+* ![cyan](https://user-images.githubusercontent.com/72464031/170149584-ba66b0b2-757a-4c56-a463-a1287d9357f7.png) Door
+* ![magenta](https://user-images.githubusercontent.com/72464031/170149592-cabc813e-456c-44ab-b8c2-fb46f881001e.png) Monster
+* ![red](https://user-images.githubusercontent.com/72464031/170149597-39678409-cc04-4839-80dc-7574748d49f3.png) Advanced Monster
 
 
 ### Classes
