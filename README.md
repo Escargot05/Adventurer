@@ -16,12 +16,12 @@ The aim of game is to collect all keys, open the gates and escape from the templ
 
 ### Legend
 
-* ![hero](https://via.placeholder.com/15/00FF00/000000?text=+) Hero
-* ![wall](https://via.placeholder.com/15/0000FF/000000?text=+) Wall
-* ![key](https://via.placeholder.com/15/FFFF00/000000?text=+) Key
-* ![wall](https://via.placeholder.com/15/00FFFF/000000?text=+) Door
-* ![wall](https://via.placeholder.com/15/FF0000/000000?text=+) Monster
-* ![wall](https://via.placeholder.com/15/FF00FF/000000?text=+) Advanced Monster
+* ![hero](https://via.placeholder.com/15/00FF00/000000?text=+) `Hero`
+* ![wall](https://via.placeholder.com/15/0000FF/000000?text=+) `Wall`
+* ![key](https://via.placeholder.com/15/FFFF00/000000?text=+) `Key`
+* ![wall](https://via.placeholder.com/15/00FFFF/000000?text=+) `Door`
+* ![wall](https://via.placeholder.com/15/FF0000/000000?text=+) `Monster`
+* ![wall](https://via.placeholder.com/15/FF00FF/000000?text=+) `Advanced Monster`
 
 ### Classes
 * Entity - the abstract base class for the rendered game objects. It contains getters to the object position and bounds, setter to position, and the render method.
@@ -37,11 +37,11 @@ The aim of game is to collect all keys, open the gates and escape from the templ
 
 ### UML classes diagram
 
-![uml]()
+![uml](https://user-images.githubusercontent.com/72464031/170147462-1ef080ae-e015-486c-8b53-791d147757fd.png)
 
 ## Preview
 
-![menu]()
-![menu2]()
-![map]()
-![map2]()
+![menu](https://user-images.githubusercontent.com/72464031/170147490-f07ee0de-b99e-4c7f-b8c8-b5159f811629.png)
+![menu2](https://user-images.githubusercontent.com/72464031/170147498-3655a46d-10aa-4ad7-a53f-0b304219e19e.png)
+![map](https://user-images.githubusercontent.com/72464031/170147529-4a3928d5-1d0f-47d4-8da5-803da05da04f.png)
+![map2](https://user-images.githubusercontent.com/72464031/170147540-0ef62e33-f1a2-4005-af32-785e77fe9659.png)
