@@ -16,12 +16,12 @@ The aim of game is to collect all keys, open the gates and escape from the templ
 
 ### Legend
 
-* ![hero](https://via.placeholder.com/15/00FF00/000000?text=+) `Hero`
-* ![wall](https://via.placeholder.com/15/0000FF/000000?text=+) `Wall`
-* ![key](https://via.placeholder.com/15/FFFF00/000000?text=+) `Key`
-* ![wall](https://via.placeholder.com/15/00FFFF/000000?text=+) `Door`
-* ![wall](https://via.placeholder.com/15/FF0000/000000?text=+) `Monster`
-* ![wall](https://via.placeholder.com/15/FF00FF/000000?text=+) `Advanced Monster`
+![hero](https://via.placeholder.com/15/00FF00/000000?text=+) Hero
+![wall](https://via.placeholder.com/15/0000FF/000000?text=+) Wall
+![key](https://via.placeholder.com/15/FFFF00/000000?text=+) Key
+![wall](https://via.placeholder.com/15/00FFFF/000000?text=+) Door
+![wall](https://via.placeholder.com/15/FF0000/000000?text=+) Monster
+![wall](https://via.placeholder.com/15/FF00FF/000000?text=+) Advanced Monster
 
 ### Classes
 * Entity - the abstract base class for the rendered game objects. It contains getters to the object position and bounds, setter to position, and the render method.
@@ -41,7 +41,7 @@ The aim of game is to collect all keys, open the gates and escape from the templ
 
 ## Preview
 
-![menu](https://user-images.githubusercontent.com/72464031/170147490-f07ee0de-b99e-4c7f-b8c8-b5159f811629.png)
-![menu2](https://user-images.githubusercontent.com/72464031/170147498-3655a46d-10aa-4ad7-a53f-0b304219e19e.png)
-![map](https://user-images.githubusercontent.com/72464031/170147529-4a3928d5-1d0f-47d4-8da5-803da05da04f.png)
-![map2](https://user-images.githubusercontent.com/72464031/170147540-0ef62e33-f1a2-4005-af32-785e77fe9659.png)
+![menu](https://user-images.githubusercontent.com/72464031/170148177-6bd3323c-375d-4680-8e04-22e849456f83.png)
+![menu2](https://user-images.githubusercontent.com/72464031/170148187-da305af7-6515-4d7c-a2bb-7e93683622b9.png)
+![map](https://user-images.githubusercontent.com/72464031/170148196-ab456487-9a3a-461f-9bc9-2d0623b17c38.png)
+![map2](https://user-images.githubusercontent.com/72464031/170148201-7584fe11-7ced-4817-ba03-904a84eb7359.png)
