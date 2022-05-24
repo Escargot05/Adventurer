@@ -16,12 +16,8 @@ The aim of game is to collect all keys, open the gates and escape from the templ
 
 ### Legend
 
-![hero](https://via.placeholder.com/15/00FF00/000000?text=+) Hero
-![wall](https://via.placeholder.com/15/0000FF/000000?text=+) Wall
-![key](https://via.placeholder.com/15/FFFF00/000000?text=+) Key
-![wall](https://via.placeholder.com/15/00FFFF/000000?text=+) Door
-![wall](https://via.placeholder.com/15/FF0000/000000?text=+) Monster
-![wall](https://via.placeholder.com/15/FF00FF/000000?text=+) Advanced Monster
+
+![hero](https://via.placeholder.com/15/00FF00/000000?text=+) `Hero`
 
 ### Classes
 * Entity - the abstract base class for the rendered game objects. It contains getters to the object position and bounds, setter to position, and the render method.
